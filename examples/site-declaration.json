@@ -1,0 +1,12 @@
+{
+  "alltio_declaration": "0.1",
+  "publisher": {
+    "name": "Alltio, Inc.",
+    "registry_profile": "https://alltio.com/about"
+  },
+  "default_policy": "https://alltio.com/terms",
+  "assets": [],
+  "assets_index": null,
+  "generated_at": "2026-08-10T00:00:00Z",
+  "signature": null
+}
